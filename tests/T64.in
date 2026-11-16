@@ -1,0 +1,13 @@
+PROGRAM total=4 elective=0 mingpa=0.00 thesis_min_grade=D thesis_min_credits=4 thesis_min_gpa=0.00 maxload=24
+COURSE BASE REGULAR 4 OPEN
+COURSE TH THESIS 8 OPEN
+STUDENT T Tina
+REGISTER T BASE 2026-1
+GRADE T BASE 2026-1 A
+REGISTER T TH 2026-2
+GRADE T TH 2026-2 S
+CONVERT T TH B
+GPA T
+CHANGE T TH 2026-2 A DEAN supervisor_revision
+GPA T
+AUDIT T

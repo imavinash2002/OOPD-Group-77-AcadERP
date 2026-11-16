@@ -1,0 +1,6 @@
+TRANSCRIPT S1 Ali | CS101@2026-1 grade=PENDING counting=NO improvement=NO
+TRANSCRIPT S1 Ali | CS101@2026-1 grade=I counting=NO improvement=NO
+ERROR 7 E_NO_GPA
+TRANSCRIPT S1 Ali | CS101@2026-1 grade=A counting=YES improvement=NO
+ERROR 10 E_GRADE_FINAL
+TRANSCRIPT S1 Ali | CS101@2026-1 grade=A counting=YES improvement=NO

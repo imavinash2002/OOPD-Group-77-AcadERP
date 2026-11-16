@@ -1,0 +1,7 @@
+COURSE C REGULAR 4 OPEN
+STUDENT S Sue
+REGISTER S C 2026-1
+GRADE S C 2026-1 A
+LOAD tests/no_such_acaderp_save_file_66.dat
+GPA S
+AUDIT S

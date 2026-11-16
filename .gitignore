@@ -1,0 +1,24 @@
+# group-77
+# Compilation output and executables
+*.exe
+*.o
+*.obj
+*.out.exe
+*.a
+*.so
+*.dll
+*.dylib
+*.pdb
+*.class
+acaderp
+unit_checks
+# Local-generated data
+*.acaderp_tmp
+*.save
+!tests/*.save
+audit.log
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store

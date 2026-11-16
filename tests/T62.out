@@ -1,0 +1,5 @@
+ERROR 5 E_AUTH
+GPA S 4.00
+AUDIT S EMPTY
+GPA S 10.00
+AUDIT S | CHANGE S C 2026-1 D->A reason=documented_reason

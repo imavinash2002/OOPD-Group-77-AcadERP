@@ -1,0 +1,12 @@
+COURSE C REGULAR 4 OPEN
+STUDENT R Ray
+REGISTER R C 2026-1
+GRADE R C 2026-1 B
+CHANGE R C 2026-1 A DEAN first_correction
+CHANGE R C 2026-1 C DEAN second_correction
+SAVE tests/bonus_T68.save
+AUDIT R
+CHANGE R C 2026-1 F DEAN later_correction
+LOAD tests/bonus_T68.save
+GPA R
+AUDIT R

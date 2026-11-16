@@ -1,0 +1,7 @@
+PROGRAM total=3 elective=0 mingpa=0.00 thesis_min_grade=C thesis_min_credits=1 thesis_min_gpa=0.00 maxload=4
+COURSE A REGULAR 3 CORE
+COURSE B REGULAR 2 CORE PRE=A ANTI=A
+STUDENT 001 Asha
+REGISTER 001 A 2026-1
+GRADE 001 A 2026-1 A
+ELIGIBLE 001 B 2026-1

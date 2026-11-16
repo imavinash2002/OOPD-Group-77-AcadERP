@@ -1,0 +1,17 @@
+PROGRAM total=4 elective=0 mingpa=0.00 thesis_min_grade=D thesis_min_credits=4 thesis_min_gpa=0.00 maxload=24
+COURSE BASE REGULAR 4 OPEN
+COURSE TH THESIS 8 CORE
+STUDENT R Ray
+REGISTER R BASE 2026-1
+GRADE R BASE 2026-1 A
+REGISTER R TH 2026-2
+GRADE R TH 2026-2 X
+GRADE R TH 2026-3 S
+SAVE tests/bonus_T72.save
+CONVERT R TH B
+GPA R
+LOAD tests/bonus_T72.save
+GPA R
+CONVERT R TH A
+GPA R
+TRANSCRIPT R

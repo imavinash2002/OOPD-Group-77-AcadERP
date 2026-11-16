@@ -1,0 +1,4 @@
+TRANSCRIPT S Sue | NSS@2026-1 grade=X counting=YES improvement=NO
+AUDIT S | CHANGE S NSS 2026-1 S->X reason=correction_by_office
+ERROR 8 E_GRADE_TYPE
+AUDIT S | CHANGE S NSS 2026-1 S->X reason=correction_by_office

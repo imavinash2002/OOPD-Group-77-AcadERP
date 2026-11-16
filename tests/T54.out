@@ -1,0 +1,9 @@
+TRANSCRIPT M Mia | CS1@2026-1 grade=A counting=YES improvement=NO | TH@2026-2 grade=THESIS(REGISTERED;PROGRESS=NONE) counting=NO improvement=NO
+ERROR 9 E_THESIS_TRANSITION
+TRANSCRIPT M Mia | CS1@2026-1 grade=A counting=YES improvement=NO | TH@2026-2 grade=THESIS(REGISTERED;PROGRESS=NONE) counting=NO improvement=NO
+ERROR 12 E_THESIS_TRANSITION
+TRANSCRIPT M Mia | CS1@2026-1 grade=A counting=YES improvement=NO | TH@2026-2 grade=THESIS(AT_RISK;PROGRESS=2026-2:X) counting=NO improvement=NO
+TRANSCRIPT M Mia | CS1@2026-1 grade=A counting=YES improvement=NO | TH@2026-2 grade=THESIS(FINAL:A-;PROGRESS=2026-2:X,2026-3:S) counting=YES improvement=NO
+GPA M 9.40
+ERROR 18 E_GRADE_FINAL
+TRANSCRIPT M Mia | CS1@2026-1 grade=A counting=YES improvement=NO | TH@2026-2 grade=THESIS(FINAL:A-;PROGRESS=2026-2:X,2026-3:S) counting=YES improvement=NO

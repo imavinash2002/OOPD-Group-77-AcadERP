@@ -1,0 +1,8 @@
+PROGRAM total=20 elective=3 mingpa=5.00 thesis_min_grade=C thesis_min_credits=10 thesis_min_gpa=6.00 bad=12
+COURSE CS101 REGULAR 4 CORE
+STUDENT 001 Asha
+REGISTER 001 CS101 2026-1
+GRADE 001 CS101 2026-1 A
+GPA 001
+PROGRAM total=20 elective=3 mingpa=5.00 thesis_min_grade=C thesis_min_credits=10 thesis_min_gpa=6.00 maxload=12
+GPA 001

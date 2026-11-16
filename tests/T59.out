@@ -1,0 +1,6 @@
+TRANSCRIPT S Zoe EMPTY
+ERROR 5 E_GRADE_SYMBOL
+TRANSCRIPT S Zoe | CS1@2026-1 grade=PENDING counting=NO improvement=NO
+ERROR 7 E_GRADE_TYPE
+TRANSCRIPT S Zoe | CS1@2026-1 grade=PENDING counting=NO improvement=NO
+TRANSCRIPT S Zoe | CS1@2026-1 grade=B counting=YES improvement=NO
